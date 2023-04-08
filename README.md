@@ -1,5 +1,5 @@
 
-# Django Authentication System
+# <h1 align="center">Django Authentication System</h1>
 
 This is Simple project based on Django Framework used to demonstrate the authentication System.
 
@@ -11,7 +11,7 @@ This is Simple project based on Django Framework used to demonstrate the authent
 ✅ Django Dashboard code <br>
 ✅ How to change password in django <br>
 ✅ How to reset password in django <br>
-✅Why do we use CSRF token in Django? <br>
+✅ Why do we use CSRF token in Django? <br>
 
 
 ## Features :fire:
